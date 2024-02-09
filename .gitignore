@@ -99,3 +99,4 @@ _[Ss]cripts
 !/Scripts/bin
 !/Config
 !/TestResults
+*.ini
